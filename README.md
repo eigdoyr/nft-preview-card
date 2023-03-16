@@ -1,6 +1,27 @@
-# nft-preview-card
+# NFT preview card 🙈
 
-This template should help get you started developing with Vue 3 in Vite.
+![Design preview for the QR code component coding challenge](./src/assets/preview.png)
+
+## Layout
+
+The designs were created to the following widths:
+
+- Desktop: 1440px
+- Mobile: 375px
+
+## Links
+
+- Solution URL: [https://github.com/eigdoyr/nft--card](https://github.com/eigdoyr/nft-preview-card)
+- Live Site URL: [https://eigdoyr-profile-card.netlify.com](https://eigdoyr-nft-preview-card.netlify.com)
+
+## Built with
+
+- [Vue](https://vuejs.org/) - JS library
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
 
 ## Recommended IDE Setup
 

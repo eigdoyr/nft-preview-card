@@ -1,9 +1,16 @@
 :root {
-  --soft-blue: hsl(215, 51%, 70%);
+  /* --soft-blue: hsl(215, 51%, 70%);
   --cyan: hsl(178, 100%, 50%);
-  --main-bg: hsl(217, 54%, 11%);
-  --card-bg: hsl(216, 50%, 16%);
+  --card-bg: hsl(212, 38%, 8%);
+  --main-bg: hsl(216, 50%, 16%);
   --line: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%); */
+
+  --soft-yellow: #e8debe;
+  --primary: hsl(44.52deg 83.73% 65.22%);
+  --card-bg: #0f0f0f;
+  --main-bg: hsl(74.66deg 90.79% 79.52%);
+  --line: hsl(0deg 61.31% 67.28%);
   --white: hsl(0, 0%, 100%);
 }
 
